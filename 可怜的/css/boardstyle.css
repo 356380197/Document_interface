@@ -1,0 +1,42 @@
+
+
+.main .tabs{ height:2.5rem; border-bottom: 1px solid #e0dbd9;position: fixed; top:0; width: 101%; z-index: 999;}
+
+.main .tabs a{ display: inline-block; width:49.66%; text-align: center; background: #fefefe; line-height:2.5rem; float: left; font-size: 16px; color: #999999; text-decoration:none;}
+
+.main .tabs a.active{ color: #1ab469; border-bottom: 2px solid #1ab469; border-right: 1px solid #e0dbd9;border-left: 1px solid #e0dbd9; }
+
+.main .tabs a:active{background: #eee;}
+.act-page{-webkit-tap-highlight-color:rgba(0,0,0,0);-moz-tap-highlight-color:rgba(0,0,0,0);tap-highlight-color:rgba(0,0,0,0);}
+.content-act{ border: 1px solid #e0dbd9; margin: 10px; border-radius: 4px; padding: 7px;-webkit-tap-highlight-color:rgba(0,0,0,0);-moz-tap-highlight-color:rgba(0,0,0,0);tap-highlight-color:rgba(0,0,0,0); overflow: hidden;}
+
+.imgbox{ margin-top: 5px;-webkit-tap-highlight-color:rgba(0,0,0,0);-moz-tap-highlight-color:rgba(0,0,0,0);tap-highlight-color:rgba(0,0,0,0);}
+
+.imgbox img{ width: 100%;vertical-align: middle;}
+
+.line{ border-bottom: 1px solid #edeaea; margin-top: 8px;}
+
+.headpic{ overflow-x: auto; width: 100%; white-space:nowrap; height: 2rem; padding: .5rem 0 0;}
+
+.headpic span{ display: inline-block; vertical-align: middle; border: 1px solid #999999; width: 25px; height: 25px; border-radius: 100%; margin-right:16px; overflow: hidden;} 
+
+.headpic span img{ width: 100%;}
+
+/*.content-act:active{ background: #ddd;}*/
+
+/*--我的活动--*/
+
+.main p a{ display: inline-block; text-decoration: none;font-size: 1rem; padding: .5rem 1rem;}
+
+.badge_arrow{ position: relative; top:8px; right: 12px;}
+
+.activity_my{ border-bottom: 1px solid #e4e4e4;}
+
+.start_txt{ color: #eb6100;}
+
+.end_txt{ color: #57514b;}
+
+
+
+
+

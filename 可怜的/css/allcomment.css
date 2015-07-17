@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+html {
+	background: #e2e2e2;
+}
+body {
+	padding-bottom: 45px;
+}
+.allcomspe {
+	margin-bottom: 8px;
+}
+.allcomment {
+	border-top: 1px #d4d4d4 solid;
+}
+.dyn_lz {
+	height: 18px;
+	line-height: 18px;
+	padding: 0 5px;
+	display: inline-block;
+	background: #eaeaea;
+	border-radius: 3px;
+	font-size: 10px;
+	color: #a7a6a6;
+}
+.comment .dyn_lz {
+	line-height: 18px;
+	margin-top: 3px;
+}
+.allcomcz {
+	text-align: left;
+	padding-top: 10px;
+}
+.allhotans {
+	margin: 7px 0 0 3%;
+}
+.allcombox .dynamic_con {
+	padding: 5px 0 0 0;
+}
+.allcombox .person {
+	padding-top: 15px;
+}
+.allcomspe .allcombox {
+	border-bottom-color: #d4d4d4;
+}
+.moreanswer {
+	background: #cccccc;
+}
+.moreanswer span {
+	border-color: #cccccc #fff #fff #cccccc;
+}
+.com_about .dynamic_con {
+	width: 90%;
+	margin: 2px 0 5px 0;
+	border: 1px #ededed solid;
+	padding: 0;
+}
+.com_about .dynamic_con li {
+	border: none;
+}
+.ad{
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+}
+.main{display: none;}
